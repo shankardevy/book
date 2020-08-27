@@ -1,6 +1,6 @@
 # Book
 
-**TODO: Add description**
+Double entry accounting system for Elixir using Ecto
 
 ## Installation
 
